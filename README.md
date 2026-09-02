@@ -9,7 +9,7 @@ lyr
 txt 
 ![](https://file.garden/Z6VDF8heFD8ZlcWE/Untitled298_20260901223643.png)
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[★](https://rentry.co/soulsearches) ⠀[♡](https://fillets.carrd.co/) ⠀[✦](https://github.com/SyntheticLullaby/slimeknight)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[★](https://rentry.co/soulsearches) ⠀[♡](https://fillets.carrd.co/) ⠀[✦](https://github.com/SyntheticLullaby/slimeknight)
 
 
 lyr
