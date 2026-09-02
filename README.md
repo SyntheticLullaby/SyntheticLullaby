@@ -2,11 +2,14 @@
 - - -
 lyr
 
-![main image]()
+![main image](https://file.garden/Z6VDF8heFD8ZlcWE/Untitled297_20260901223034.png)
 
 ![divider]()
 
-txt
+txt 
+![](https://file.garden/Z6VDF8heFD8ZlcWE/Untitled298_20260901223643.png)
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[★](https://rentry.co/soulsearches) ⠀[♡](https://fillets.carrd.co/) ⠀[✦](https://github.com/SyntheticLullaby/slimeknight)
 
 
 lyr
