@@ -1,16 +1,17 @@
-## Hi there 👋
+![start]()
+- - -
+lyr
 
-<!--
-**SyntheticLullaby/SyntheticLullaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![main image]()
 
-Here are some ideas to get you started:
+![divider]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+txt
+
+
+lyr
+- - -
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31spr6iyjday7c3lz4ulhd77sn6y&cover_image=true&theme=spotify-embed&show_offline=false&background_color=13266e&interchange=false&profanity=false&hide_remaster=false&bar_color=95b8cf&bar_color_cover=true&mode=dark)](https://github.com/kittinan/spotify-github-profile)
+
+![end]()
