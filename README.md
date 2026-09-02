@@ -1,4 +1,4 @@
-![start]()
+![start](https://file.garden/Z6VDF8heFD8ZlcWE/Untitled299_20260901235853.png)
 - - -
 
 
@@ -32,9 +32,9 @@ lyr
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31spr6iyjday7c3lz4ulhd77sn6y&cover_image=true&theme=spotify-embed&show_offline=false&background_color=13266e&interchange=false&profanity=false&hide_remaster=false&bar_color=95b8cf&bar_color_cover=true&mode=dark" alt="spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31spr6iyjday7c3lz4ulhd77sn6y&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=779ba6&bar_color_cover=false" alt="spotify-github-profile">
   </a>
 </p>
 
 
-![end]()
+![end](https://file.garden/Z6VDF8heFD8ZlcWE/Untitled299_20260901235858.png)
