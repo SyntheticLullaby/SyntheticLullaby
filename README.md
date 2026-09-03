@@ -5,7 +5,7 @@
 $${\color{#447294}t \color{#497798}o \space \color{#5280a1}t \color{#5785a6}e \color{#5b89aa}l \color{#608eaf}l \space \color{#6a97b8}y \color{#6e9cbc}o \color{#73a0c0}u \space \color{#7caac9}i \space \color{#86b3d2}s \color{#8ab7d7}h \color{#8fbcdb}o \color{#92bedb}u \color{#95c0db}l \color{#97c2db}d \color{#97c2db}' \color{#9ac4dc}v \color{#9dc5dc}e \space \color{#a3c9dc}c \color{#a6cbdc}h \color{#a8cddc}a \color{#abcfdc}s \color{#aed1dc}e \color{#b1d3dd}d \space \color{#b6d6dd}y \color{#b9d8dd}o \color{#bcdadd}u}$$
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=worlds+destroyed&color=73a0c0&style=plastic&abbreviated=true&base=0" alt="Worlds Destroyed Counter">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=worlds+destroyed&color=73a0c0&style=plastic" alt="Worlds Destroyed Counter">
 </p>
 
 
