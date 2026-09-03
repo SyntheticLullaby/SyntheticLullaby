@@ -13,7 +13,25 @@ $${\color{#447294}t \color{#497798}o \space \color{#5280a1}t \color{#5785a6}e \c
 
 ![divider](https://file.garden/Z6VDF8heFD8ZlcWE/tumblr_d44cdc9a43a460d626ffdac1e44a9a06_89ab13d6_1280.png)
 <div align="center">
-txt 
+  
+``🪼``   ✦   **SYNTHETIC  LULLABY**𓈒
+
+${\color{#97c2db}Deez}$  *ou*  ~~Name~~  ﹒   8teen
+
+DID  sys𓈒   ``☁️``   unlabeled!
+
+︶︶︶︶︶︶︶︶︶︶︶︶︶︶
+
+     ⓘ   **iwc**aut .  *autism*  adhd
+
+          bpd  .  usually  pref
+
+          *i*/me  prns  .  treat
+
+          as  **individual**  please !
+          
+︶︶︶︶︶︶︶︶︶︶︶︶︶︶ 
+
 </div>
 
 ![](https://file.garden/Z6VDF8heFD8ZlcWE/Untitled298_20260901223643.png)
