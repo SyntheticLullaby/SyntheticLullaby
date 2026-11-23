@@ -24,11 +24,11 @@ DID  sys𓈒   ``☁️``   unlabeled!
 
      ⓘ   **iwc**aut .  *autism*  adhd
 
-          bpd  .  usually  pref
+          bpd    ocd .  usually  pref
 
-          *i*/me  prns  .  treat
+          *i*/me  prns  .  treat  as
 
-          as  **individual**  please !
+          an  **individual**  please !
           
 ︶︶︶︶︶︶︶︶︶︶︶︶︶︶ 
 
